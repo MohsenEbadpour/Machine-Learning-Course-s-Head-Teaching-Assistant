@@ -18,3 +18,6 @@ List of covered topics in Homeworks based on course plane:
 - Homework #5
 > Unsupervised(partitioning-based, density-based, hierarchical-based, and model-based) and Reinforcement Learning.
 
+- Project
+> Multi-target Regression, Skin Detection, Classification study on Credit Card Approval dataset
+
