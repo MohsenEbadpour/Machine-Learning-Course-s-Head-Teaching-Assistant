@@ -10,8 +10,11 @@ List of covered topics in Homeworks based on course plane:
 > K-NN, Decision Tree, and evaluation metrics.
 
 - Homework #3
-> Naïve Bayes and its variants, and Logistic Regression
+> Naïve Bayes and its variants, and Logistic Regression.
 
 - Homework #4
-> Support Vector Machines(SMVs) and Ensembles.
+> Support Vector Machines(SMVs) and Ensembles(Bagging and Boosting).
+
+- Homework #5
+> Unsupervised(partitioning-based, density-based, hierarchical-based, and model-based) and Reinforcement Learning.
 
